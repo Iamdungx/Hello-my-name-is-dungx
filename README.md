@@ -1,12 +1,12 @@
 # 🌟 Welcome to My GitHub Profile
 
-Hi! I'm [Dungx], a passionate developer with a keen interest in various programming languages and technologies. Below, you'll find more details about my skills and how to reach out to me.
+Hi! I'm Dungx, a passionate developer with a keen interest in various programming languages and technologies. Below, you'll find more details about my skills and how to reach out to me.
 
 ---
 
 ## 📧 Contact Information
 
-- **Email**: [buidxng299@gmail.com]
+- **Email**: buidxng299@gmail.com
 
 ---
 
@@ -39,7 +39,7 @@ If you find any of my projects interesting or useful, please don't hesitate to c
 
 You can reach me via email for any inquiries or collaboration ideas. I'm always open to discussing new projects and opportunities.
 
-[![X](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/iamdungx__)
+[![X](https://img.shields.io/badge/X-Profile-blue)](https://x.com/iamdungx__)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/Iamdungx)
 
 ---
